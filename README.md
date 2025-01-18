@@ -22,7 +22,7 @@ It is recommended to split the dataset into training, validation, and testing se
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Transfer-Learning-InceptionV3-Corn-Leaf-Disease-Classification.git
+git clone https://github.com/Rplx197/CNN.git
 ```
 2. Navigate to the project directory:
 
